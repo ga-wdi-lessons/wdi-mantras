@@ -11,7 +11,7 @@
 - The "soft skills" and "fuzzy skills" are the most underestimated, the most difficult, and the most important.
 - If something seems "too simple", do it first, and do it faster.
 - Start with what you know.
-- An app that is *You* is better than an app that is "good".
+- An app that is <strong>You</strong> is better than an app that is "good".
 - If that time-saving framework has taken you 3 extra days to master, it's not time-saving.
 - The computer does exactly what you tell it to do. This is good and bad.
 - Small steps.
