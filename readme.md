@@ -1,0 +1,23 @@
+- Don't be afraid to start over. That said, never delete your code; just create a new branch.
+- "Working" is better than "perfect".
+- Don't thrash.
+- Don't just throw spaghetti at the wall hoping some of it sticks.
+- Get out of your head.
+- Sometimes it feels like you're being told to "draw some circles, then draw the rest of the effing owl." But maybe there is no owl?
+- Is your blue elephant running?
+- Branch early; branch often.
+- Deploy early; deploy often.
+- The first iteration of your idea is always too big.
+- The "soft skills" and "fuzzy skills" are the most underestimated, the most difficult, and the most important.
+- If something seems "too simple", do it first, and do it faster.
+- Start with what you know.
+- An app that is *You* is better than an app that is "good".
+- If that time-saving framework has taken you 3 extra days to master, it's not time-saving.
+- The computer does exactly what you tell it to do. This is good and bad.
+- Small steps.
+- Slow down to speed up.
+- If you're too stuck, go to sleep. If you can't sleep, brush your teeth.
+- Always sniff your code.
+- Smooth seas never made a skilled sailor.
+- Short of dumping water on it and <kbd>sudo rm -rf /</kbd>, it's almost impossible to break your computer.
+- DCMS: <kbd>rake db:drop db:create db:migrate db:seed</kbd>
