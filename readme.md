@@ -23,4 +23,4 @@
 - Smooth seas never made a skilled sailor.
 - Short of dumping water on it and <kbd>sudo rm -rf /</kbd>, it's almost impossible to break your computer.
 - DCMS: <kbd>rake db:drop db:create db:migrate db:seed</kbd>
-- Can you show me on the DOM where the JavaScript touched you? 
+- Don't be afraid to write code you'll throw out later.
