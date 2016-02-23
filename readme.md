@@ -3,7 +3,7 @@
 - Don't thrash.
 - Don't just throw spaghetti at the wall hoping some of it sticks.
 - Get out of your head.
-- Sometimes it feels like you're being told to "draw some circles, then draw the rest of the effing owl." But maybe there is no owl?
+- [Maybe there is no owl.](https://raw.githubusercontent.com/ga-wdi-lessons/wdi-mantras/master/draw-the-rest-of-the-owl.jpg) If you can't find documentation on the rules, maybe the rules don't exist.
 - Is your blue elephant running?
 - Branch early; branch often.
 - Deploy early; deploy often.
