@@ -8,7 +8,7 @@
 - Don't thrash.
 - Don't throw spaghetti at the wall hoping some of it sticks.
 - Get out of your head.
-- [Maybe there is no owl.](https://raw.githubusercontent.com/ga-wdi-lessons/wdi-mantras/master/draw-the-rest-of-the-owl.jpg) If you can't find documentation on the rules, maybe the rules don't exist.
+- <a href="https://raw.githubusercontent.com/ga-wdi-lessons/wdi-mantras/master/draw-the-rest-of-the-owl.jpg">Maybe there is no owl.</a> If you can't find documentation on the rules, maybe the rules don't exist.
 - Is your blue elephant running?
 - Branch early; branch often.
 - Deploy early; deploy often.
