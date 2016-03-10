@@ -25,3 +25,4 @@
 - DCMS: <kbd>rake db:drop db:create db:migrate db:seed</kbd>
 - Don't be afraid to write code you'll throw out later.
 - `new_errors === progress`
+- Indent your code.
