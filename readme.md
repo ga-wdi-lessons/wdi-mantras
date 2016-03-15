@@ -24,5 +24,5 @@
 - Short of dumping water on it and <kbd>sudo rm -rf /</kbd>, it's almost impossible to break your computer.
 - DCMS: <kbd>rake db:drop db:create db:migrate db:seed</kbd>
 - Don't be afraid to write code you'll throw out later.
-- `new_errors === progress`
+- <kbd>new_errors === progress</kbd>
 - Indent your code.
